@@ -64,8 +64,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
+<br>
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://rohittechnical.tech/contact">Contact Details</a><br>
+Do you want to contact me for collaboration opportunities? ⟶ <a href="mailto:rohitupreti2002@gmail.com">Contact</a>
+  <br>
 <b> HAPPY CODING ❤️</p> </div>
 <!--- Footer End -->
