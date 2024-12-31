@@ -1,10 +1,42 @@
 ![Ra (1)](https://github.com/user-attachments/assets/7de16009-037b-482b-ac6d-193455bd8e27)
 
-<h2 align="center">Hi 👋! I’m Rohit, a full-stack developer skilled in the MERN stack.</h2>
+<h1 align="center"> Hi 👋 there, I'm <a  href="https://www.linkedin.com/in/rohit-upreti-12188b298/">Rohit</a> </h1>
 
-# 💫 About Me:
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://rohittechnical.tech/">Portfolios</a> -
+  <a href="https://www.linkedin.com/in/rohit-upreti-12188b298/">LinkedIn</a> - 
+  <a href="https://leetcode.com/u/rohitupreti/">LeetCode</a> -
+  <a href="https://www.naukri.com/code360/profile/Rohitupreti/">Code360</a> -
+  <a href="https://rohittechnical.tech/">Website</a> -
+<a href="mailto:rohitupreti2002@gmail.com">Contact me.</a>
 
-🎯 I’m currently working on<br>Building innovative web solutions using the MERN stack and enhancing my skills in responsive design and real-time data handling.<br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects, especially those using React, Express, and MongoDB.<br><br>💬 Ask me about<br>My experience with startups and how I contributed to 2ndLifeInnings, a platform dedicated to empowering retirees by helping them discover new opportunities, explore hobbies, and stay active in their second innings of life.<br>How I leverage the MongoDB Aggregation Pipeline to perform advanced data operations, and how I integrate it seamlessly into MERN stack applications to build efficient and scalable solutions.<br><br>⚡ Fun fact<br>I have a knack for simplifying challenging algorithms and enjoy building tools that bridge the gap between design and functionality.
+</p>
+
+-----------------------------------------------------------
+
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e47gwp33241zoz4hahy99chgn0js8c3xkdr1wkcu43e&rid=giphy.gif&ct=g" 
+       width="450" 
+       style="border-radius: 30px;">
+</p>
+<h2 align="center"> 💫 About Me</h2>
+<h3 align="center"> ✨Full Stack Web Dev | MERN Stack</h3>
+<table style="width: 100%; text-align: center; margin: 0 auto;">
+  <tr>
+    <td style="text-align: justify; padding-right: 20px;">
+      🎯 I’m currently working on
+      Building innovative web solutions using the MERN stack and enhancing my skills in responsive design and real-time data handling.
+      <br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects, especially those using React, Express, and MongoDB.<br><br>💬 Ask me about<br>My experience with startups and how I contributed to 2ndLifeInnings, a platform dedicated to empowering retirees by helping them discover new opportunities, explore hobbies, and stay active in their second innings of life.<br>How I leverage the MongoDB Aggregation Pipeline to perform advanced data operations, and how I integrate it seamlessly into MERN stack applications to build efficient and scalable solutions.<br><br>⚡ Fun fact<br>I have a knack for simplifying challenging algorithms and enjoy building tools that bridge the gap between design and functionality.
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-upreti-12188b298)
 
@@ -25,10 +57,15 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
+  
+<!--- Body End -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<p align="center">
+Do you want to contact me for collaboration opportunities? ⟶ <a href="https://rohittechnical.tech/contact">Contact Details</a><br>
+<b> HAPPY CODING ❤️</p> </div>
+<!--- Footer End -->
