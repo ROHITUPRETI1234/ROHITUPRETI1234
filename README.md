@@ -25,23 +25,33 @@
 
 <h2 align="center"> 💫 About Me</h2>
 <h3 align="center"> ✨Full Stack Web Dev | MERN Stack</h3>
-<table style="width: 100%; text-align: center; margin: 0 auto;">
+<table >
   <tr>
-    <td style="text-align: justify; padding-right: 20px;">
-         <p align="center">
-  <img src="https://media4.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e47gwp33241zoz4hahy99chgn0js8c3xkdr1wkcu43e&rid=giphy.gif&ct=g" 
-       width="400" 
-       style="border-radius: 30px;">
-           </p>
-           <br>
-      🎯 I’m currently working on
+    <td>
+     <br>
+      <p align="center">
+        <img 
+          src="https://media4.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e47gwp33241zoz4hahy99chgn0js8c3xkdr1wkcu43e&rid=giphy.gif&ct=g" 
+          width="400" 
+          style="border-radius: 30px;">
+      </p>
+      <br>
+      <strong>🎯 I’m currently working on</strong><br>
       Building innovative web solutions using the MERN stack and enhancing my skills in responsive design and real-time data handling.
-      <br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects, especially those using React, Express, and MongoDB.<br><br>💬 Ask me about<br>My experience with startups and how I contributed to 2ndLifeInnings, a platform dedicated to empowering retirees by helping them discover new opportunities, explore hobbies, and stay active in their second innings of life.<br>How I leverage the MongoDB Aggregation Pipeline to perform advanced data operations, and how I integrate it seamlessly into MERN stack applications to build efficient and scalable solutions.<br><br>⚡ Fun fact<br>I have a knack for simplifying challenging algorithms and enjoy building tools that bridge the gap between design and functionality.
-   
-
+      <br><br>
+      <strong>🤝 I’m looking to collaborate on</strong><br>
+      Full-stack web development projects, especially those using React, Express, and MongoDB.
+      <br><br>
+      <strong>💬 Ask me about</strong><br>
+      My experience with startups and how I contributed to 2ndLifeInnings, a platform dedicated to empowering retirees by helping them discover new opportunities, explore hobbies, and stay active in their second innings of life.<br>
+      How I leverage the MongoDB Aggregation Pipeline to perform advanced data operations, and how I integrate it seamlessly into MERN stack applications to build efficient and scalable solutions.
+      <br><br>
+      <strong>⚡ Fun fact</strong><br>
+      I have a knack for simplifying challenging algorithms and enjoy building tools that bridge the gap between design and functionality.
     </td>
   </tr>
 </table>
+
 
 
 
