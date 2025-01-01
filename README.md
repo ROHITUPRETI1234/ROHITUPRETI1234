@@ -1,6 +1,12 @@
-![Ra (1)](https://github.com/user-attachments/assets/7de16009-037b-482b-ac6d-193455bd8e27)
+[![Ra (1)](https://github.com/user-attachments/assets/7de16009-037b-482b-ac6d-193455bd8e27)](https://rohittechnical.tech)
 
-<h1 align="center"> Hi 👋 there, I'm <a  href="https://www.linkedin.com/in/rohit-upreti-12188b298/">Rohit</a> </h1>
+ 
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" 
+       width="550" 
+       style="border-radius: 30px;">
+</p>
+  <h1 align="center"> Hi 👋 there, I'm <a  href="https://www.linkedin.com/in/rohit-upreti-12188b298/">Rohit</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
@@ -16,19 +22,23 @@
 -----------------------------------------------------------
 
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e47gwp33241zoz4hahy99chgn0js8c3xkdr1wkcu43e&rid=giphy.gif&ct=g" 
-       width="450" 
-       style="border-radius: 30px;">
-</p>
+
 <h2 align="center"> 💫 About Me</h2>
 <h3 align="center"> ✨Full Stack Web Dev | MERN Stack</h3>
 <table style="width: 100%; text-align: center; margin: 0 auto;">
   <tr>
     <td style="text-align: justify; padding-right: 20px;">
+         <p align="center">
+  <img src="https://media4.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e47gwp33241zoz4hahy99chgn0js8c3xkdr1wkcu43e&rid=giphy.gif&ct=g" 
+       width="400" 
+       style="border-radius: 30px;">
+           </p>
+           <br>
       🎯 I’m currently working on
       Building innovative web solutions using the MERN stack and enhancing my skills in responsive design and real-time data handling.
       <br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects, especially those using React, Express, and MongoDB.<br><br>💬 Ask me about<br>My experience with startups and how I contributed to 2ndLifeInnings, a platform dedicated to empowering retirees by helping them discover new opportunities, explore hobbies, and stay active in their second innings of life.<br>How I leverage the MongoDB Aggregation Pipeline to perform advanced data operations, and how I integrate it seamlessly into MERN stack applications to build efficient and scalable solutions.<br><br>⚡ Fun fact<br>I have a knack for simplifying challenging algorithms and enjoy building tools that bridge the gap between design and functionality.
+   
+
     </td>
   </tr>
 </table>
@@ -47,7 +57,7 @@
 
 # 📊 GitHub Stats:
 <!---![](https://github-readme-stats.vercel.app/api?username=ROHITUPRETI1234&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=ROHITUPRETI1234&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ROHITUPRETI1234&theme=radical&hide_border=false) &nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITUPRETI1234&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
