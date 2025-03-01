@@ -41,14 +41,14 @@
       <br>
       <strong>🎯 I’m currently working on</strong><br>
       <p>➡️ Building innovative web solutions using the MERN stack and DevOps.</p>
-      <strong>🤝 I’m looking to collaborate on</strong><br>
-      <p>➡️Full-stack web development (React, Express, MongoDB, MySQL) and DevOps (Docker, Jenkins, Kubernetes) for deployment & automation.</p>
-      <strong>💬 Ask me about</strong><br>
-      <p>➡️My experience with the MERN stack and how I build scalable full-stack applications using MongoDB, Express, React, and Node.js.</p>
-      <p>➡️How I apply Data Structures and Algorithms (DSA) using Java to solve complex problems efficiently.</p>
-      <p>➡️How I leverage React Native to develop cross-platform mobile applications with seamless user experiences.</p>
-      <p>➡️How I use Docker and Kubernetes to deploy and manage applications on cloud servers like Hostinger VPS, Premium, and other dedicated servers, ensuring scalability and fault tolerance</p>
-      <p>➡️How I streamline continuous integration and deployment (CI/CD) pipelines using Jenkins, automating builds, tests, and deployments for efficient DevOps workflows.</p>
+     <strong>🤝 I’m looking to collaborate on</strong><br>
+<p>➡️Full-stack web development (React, Express, MongoDB, MySQL) and learning DevOps (Docker, Kubernetes, Jenkins) for deployment & automation.</p>
+    <strong>💬 Ask me about</strong><br>
+    <p>➡️My experience with the MERN stack and how I build scalable full-stack applications using MongoDB, Express, React, and Node.js.</p>
+    <p>➡️How I apply Data Structures and Algorithms (DSA) using Java to solve complex problems efficiently.</p>
+    <p>➡️How I leverage React Native to develop cross-platform mobile applications with seamless user experiences.</p>
+    <p>➡️How I use Docker to deploy and manage applications on cloud servers like Hostinger VPS, Premium, and other dedicated servers, ensuring scalability and fault tolerance.</p>
+    <p>➡️How I am learning Kubernetes and Jenkins to streamline application deployment and automate CI/CD workflows.</p>
       <strong>⚡ Fun fact</strong><br>
       ➡️I have a knack for simplifying challenging algorithms and enjoy building tools that bridge the gap between design and functionality.
 <!--     </td>
